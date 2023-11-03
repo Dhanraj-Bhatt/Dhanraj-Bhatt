@@ -12,7 +12,7 @@
  
 🌱 I’m currently learning **JavaScript**
 
-👨‍💻 All of my projects are available at [https://github.com/Dhanraj-Bhatt](https://github.com/Dhanraj-Bhatt)
+👨‍💻 All of my projects are available at [https://github.com/Dhanraj-Bhatt](https://github.com/Dhanraj-Bhatt/Projects)
 
 💬 Ask me about **JavaScript or Python**
 
