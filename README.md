@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhanraj-bhatt.dhanraj-bhatt" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Dhanraj+Bhatt!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Dhanraj+Bhatt!;" />
 </h1>
 
 <h3 align="center">A passionate frontend/backend developer from India</h3>
