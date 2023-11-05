@@ -43,13 +43,13 @@
 <br>
 <div align=center>
 
-  <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanraj-Bhatt&theme=blue-green&hide_border=true" />
+  <img width=490 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanraj-Bhatt&theme=blue-green&hide_border=true" />
   <br/>
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanraj-Bhatt&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
+  <img width=490 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanraj-Bhatt&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
   <br/>
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanraj-Bhatt&theme=blue-green&show_icons=true&hide_border=true&count_private=false"/>
+  <img width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanraj-Bhatt&theme=blue-green&show_icons=true&hide_border=true&count_private=false"/>
 </div>
 
 <br/>
