@@ -57,4 +57,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Twitter!;I'm+always+down+to+collab+:)">
 </h3>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Dhanraj-Bhatt&label=Profile%20Views&color=12&icon=5&pretty=true"/></a>
