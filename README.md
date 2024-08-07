@@ -27,8 +27,9 @@
   </a>
   <!--
       <a href="https://in.linkedin.com/in/dhanraj-bhatt" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> -->
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
+    -->
   <a href="https://twitter.com/Er_DhanrajBhatt" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
