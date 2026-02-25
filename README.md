@@ -8,7 +8,7 @@
 
 <div align="left">
  
-🌱 I’m currently learning **Web Development**
+🌱 I’m currently learning **Blender**
 <!--
 👨‍💻 All of my projects are available at [https://github.com/Dhanraj-Bhatt](https://github.com/Dhanraj-Bhatt/Projects)
 
